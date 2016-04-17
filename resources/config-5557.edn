@@ -1,0 +1,13 @@
+{
+ :initial-nodes [
+  {:address "127.0.0.1" :port 5555}
+  {:address "127.0.0.1" :port 5556} 
+  {:address "127.0.0.1" :port 5557 :local true}
+ ]
+ :t-fail 5000 
+ ;;:t-cleanup 30000
+ :cycle 1000
+ :fanout 2
+}
+
+

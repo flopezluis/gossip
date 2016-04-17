@@ -1,0 +1,5 @@
+2016-04-16.13-28-45 cd src/gossip/
+2016-04-16.13-28-46 ls
+2016-04-16.13-28-55 cp server.clj members.clj
+2016-04-16.15-21-54 ls
+2016-04-16.15-22-08 mv server.clj transport.clj
